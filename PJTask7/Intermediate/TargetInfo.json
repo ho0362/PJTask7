@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PJTask7",
+			"Path": "..\\Source\\PJTask7.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PJTask7Editor",
+			"Path": "..\\Source\\PJTask7Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\user\\documents\\github\\pjtask7\\pjtask7\\source\\pjtask7\\pjtask7.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\user\\documents\\github\\pjtask7\\pjtask7\\intermediate\\build\\win64\\x64\\pjtask7editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\user\\documents\\github\\pjtask7\\pjtask7\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\pjtask7\\definitions.pjtask7.h",
+            "c:\\users\\user\\documents\\github\\pjtask7\\pjtask7\\source\\pjtask7\\pjtask7.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
